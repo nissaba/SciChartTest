@@ -1,0 +1,8 @@
+source 'https://github.com/ABTSoftware/PodSpecs3.x.git'
+platform :ios, '13.0'
+
+use_frameworks!
+target 'SciChartTest' do
+  # Use the latest available Version
+  pod 'SciChart'
+end
