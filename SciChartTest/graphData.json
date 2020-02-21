@@ -1,0 +1,2426 @@
+[
+  {
+    "CdAwithvalueremoved": 0.172882367,
+    "Cdawithoutremovedvalue": 0.172882367,
+    "power": 284.6666667,
+    "speed": 21.98083333,
+    "time": 0,
+    "distance": 0
+  },
+  {
+    "CdAwithvalueremoved": 0.185816698,
+    "Cdawithoutremovedvalue": 0.185816698,
+    "power": 334.25,
+    "speed": 25.249375,
+    "time": 1,
+    "distance": 14.952
+  },
+  {
+    "CdAwithvalueremoved": 0.194141292,
+    "Cdawithoutremovedvalue": 0.194141292,
+    "power": 357.5,
+    "speed": 27.4145,
+    "time": 2,
+    "distance": 23.496
+  },
+  {
+    "CdAwithvalueremoved": 0.200628556,
+    "Cdawithoutremovedvalue": 0.200628556,
+    "power": 441.1,
+    "speed": 34.7855,
+    "time": 3,
+    "distance": 34.176
+  },
+  {
+    "CdAwithvalueremoved": 0.208810043,
+    "Cdawithoutremovedvalue": 0.208810043,
+    "power": 435.7,
+    "speed": 35.77,
+    "time": 4,
+    "distance": 46.992
+  },
+  {
+    "CdAwithvalueremoved": 0.216209741,
+    "Cdawithoutremovedvalue": 0.216209741,
+    "power": 404.7,
+    "speed": 36.5485,
+    "time": 5,
+    "distance": 57.672
+  },
+  {
+    "CdAwithvalueremoved": 0.218449875,
+    "Cdawithoutremovedvalue": 0.218449875,
+    "power": 364.3,
+    "speed": 37.0715,
+    "time": 6,
+    "distance": 66.216
+  },
+  {
+    "CdAwithvalueremoved": 0.218104245,
+    "Cdawithoutremovedvalue": 0.218104245,
+    "power": 329.3,
+    "speed": 37.413,
+    "time": 7,
+    "distance": 76.896
+  },
+  {
+    "CdAwithvalueremoved": 0.219345679,
+    "Cdawithoutremovedvalue": 0.219345679,
+    "power": 303.2,
+    "speed": 37.6255,
+    "time": 8,
+    "distance": 87.576
+  },
+  {
+    "CdAwithvalueremoved": 0.23792888,
+    "Cdawithoutremovedvalue": 0.23792888,
+    "power": 285.9,
+    "speed": 37.7925,
+    "time": 9,
+    "distance": 98.256
+  },
+  {
+    "CdAwithvalueremoved": 0.251369042,
+    "Cdawithoutremovedvalue": 0.251369042,
+    "power": 281.2,
+    "speed": 37.9575,
+    "time": 10,
+    "distance": 108.936
+  },
+  {
+    "CdAwithvalueremoved": 0.260713272,
+    "Cdawithoutremovedvalue": 0.260713272,
+    "power": 269.6,
+    "speed": 38.091,
+    "time": 11,
+    "distance": 119.616
+  },
+  {
+    "CdAwithvalueremoved": 0.272991322,
+    "Cdawithoutremovedvalue": 0.272991322,
+    "power": 258.3,
+    "speed": 38.1975,
+    "time": 12,
+    "distance": 130.296
+  },
+  {
+    "CdAwithvalueremoved": 0.275983299,
+    "Cdawithoutremovedvalue": 0.275983299,
+    "power": 249,
+    "speed": 38.305,
+    "time": 13,
+    "distance": 140.976
+  },
+  {
+    "CdAwithvalueremoved": 0.27381717,
+    "Cdawithoutremovedvalue": 0.27381717,
+    "power": 245.5,
+    "speed": 38.3665,
+    "time": 14,
+    "distance": 149.52
+  },
+  {
+    "CdAwithvalueremoved": 0.268585938,
+    "Cdawithoutremovedvalue": 0.268585938,
+    "power": 243.2,
+    "speed": 38.3895,
+    "time": 15,
+    "distance": 160.2
+  },
+  {
+    "CdAwithvalueremoved": 0.268285866,
+    "Cdawithoutremovedvalue": 0.268285866,
+    "power": 257,
+    "speed": 38.4085,
+    "time": 16,
+    "distance": 170.88
+  },
+  {
+    "CdAwithvalueremoved": 0.271661395,
+    "Cdawithoutremovedvalue": 0.271661395,
+    "power": 272,
+    "speed": 38.45,
+    "time": 17,
+    "distance": 181.56
+  },
+  {
+    "CdAwithvalueremoved": 0.271315407,
+    "Cdawithoutremovedvalue": 0.271315407,
+    "power": 282.9,
+    "speed": 38.4865,
+    "time": 18,
+    "distance": 190.104
+  },
+  {
+    "CdAwithvalueremoved": 0.26991786,
+    "Cdawithoutremovedvalue": 0.26991786,
+    "power": 286.1,
+    "speed": 38.551,
+    "time": 19,
+    "distance": 202.92
+  },
+  {
+    "CdAwithvalueremoved": 0.266937064,
+    "Cdawithoutremovedvalue": 0.266937064,
+    "power": 292.5,
+    "speed": 38.68,
+    "time": 20,
+    "distance": 213.6
+  },
+  {
+    "CdAwithvalueremoved": 0.2671408,
+    "Cdawithoutremovedvalue": 0.2671408,
+    "power": 289.95,
+    "speed": 38.799,
+    "time": 21,
+    "distance": 224.28
+  },
+  {
+    "CdAwithvalueremoved": 0.272037429,
+    "Cdawithoutremovedvalue": 0.272037429,
+    "power": 284.75,
+    "speed": 38.9105,
+    "time": 22,
+    "distance": 232.824
+  },
+  {
+    "CdAwithvalueremoved": 0.272780646,
+    "Cdawithoutremovedvalue": 0.272780646,
+    "power": 280.4,
+    "speed": 39.009,
+    "time": 23,
+    "distance": 241.368
+  },
+  {
+    "CdAwithvalueremoved": 0.271718407,
+    "Cdawithoutremovedvalue": 0.271718407,
+    "power": 277.45,
+    "speed": 39.0865,
+    "time": 24,
+    "distance": 252.048
+  },
+  {
+    "CdAwithvalueremoved": 0.273414278,
+    "Cdawithoutremovedvalue": 0.273414278,
+    "power": 273.4,
+    "speed": 39.096,
+    "time": 25,
+    "distance": 267
+  },
+  {
+    "CdAwithvalueremoved": 0.273508279,
+    "Cdawithoutremovedvalue": 0.273508279,
+    "power": 268.45,
+    "speed": 39.1245,
+    "time": 26,
+    "distance": 277.68
+  },
+  {
+    "CdAwithvalueremoved": 0.262110973,
+    "Cdawithoutremovedvalue": 0.262110973,
+    "power": 261.65,
+    "speed": 39.1375,
+    "time": 27,
+    "distance": 288.36
+  },
+  {
+    "CdAwithvalueremoved": 0.26177091,
+    "Cdawithoutremovedvalue": 0.26177091,
+    "power": 250.8,
+    "speed": 39.1455,
+    "time": 28,
+    "distance": 299.04
+  },
+  {
+    "CdAwithvalueremoved": 0.269011625,
+    "Cdawithoutremovedvalue": 0.269011625,
+    "power": 240.1,
+    "speed": 39.134,
+    "time": 29,
+    "distance": 309.72
+  },
+  {
+    "CdAwithvalueremoved": 0.274353661,
+    "Cdawithoutremovedvalue": 0.274353661,
+    "power": 241.65,
+    "speed": 39.115,
+    "time": 30,
+    "distance": 320.4
+  },
+  {
+    "CdAwithvalueremoved": 0.274380077,
+    "Cdawithoutremovedvalue": 0.274380077,
+    "power": 248.75,
+    "speed": 39.091,
+    "time": 31,
+    "distance": 331.08
+  },
+  {
+    "CdAwithvalueremoved": 0.265928449,
+    "Cdawithoutremovedvalue": 0.265928449,
+    "power": 256.05,
+    "speed": 39.1355,
+    "time": 32,
+    "distance": 346.032
+  },
+  {
+    "CdAwithvalueremoved": 0.265361071,
+    "Cdawithoutremovedvalue": 0.265361071,
+    "power": 264.95,
+    "speed": 39.17,
+    "time": 33,
+    "distance": 356.712
+  },
+  {
+    "CdAwithvalueremoved": 0.26602436,
+    "Cdawithoutremovedvalue": 0.26602436,
+    "power": 272.5,
+    "speed": 39.1675,
+    "time": 34,
+    "distance": 367.392
+  },
+  {
+    "CdAwithvalueremoved": 0.267600685,
+    "Cdawithoutremovedvalue": 0.267600685,
+    "power": 265.3,
+    "speed": 39.148,
+    "time": 35,
+    "distance": 378.072
+  },
+  {
+    "CdAwithvalueremoved": 0.271553326,
+    "Cdawithoutremovedvalue": 0.271553326,
+    "power": 252.35,
+    "speed": 39.0845,
+    "time": 36,
+    "distance": 388.752
+  },
+  {
+    "CdAwithvalueremoved": 0.277484481,
+    "Cdawithoutremovedvalue": 0.277484481,
+    "power": 253.6,
+    "speed": 38.992,
+    "time": 37,
+    "distance": 399.432
+  },
+  {
+    "CdAwithvalueremoved": 0.280612128,
+    "Cdawithoutremovedvalue": 0.280612128,
+    "power": 258.1,
+    "speed": 38.9095,
+    "time": 38,
+    "distance": 410.112
+  },
+  {
+    "CdAwithvalueremoved": 0.282946181,
+    "Cdawithoutremovedvalue": 0.282946181,
+    "power": 261.7,
+    "speed": 38.8805,
+    "time": 39,
+    "distance": 420.792
+  },
+  {
+    "CdAwithvalueremoved": 0.283411375,
+    "Cdawithoutremovedvalue": 0.283411375,
+    "power": 270.6,
+    "speed": 38.8605,
+    "time": 40,
+    "distance": 431.472
+  },
+  {
+    "CdAwithvalueremoved": 0.280093169,
+    "Cdawithoutremovedvalue": 0.280093169,
+    "power": 289.7,
+    "speed": 38.895,
+    "time": 41,
+    "distance": 442.152
+  },
+  {
+    "CdAwithvalueremoved": 0.286169158,
+    "Cdawithoutremovedvalue": 0.286169158,
+    "power": 295.95,
+    "speed": 38.895,
+    "time": 42,
+    "distance": 452.832
+  },
+  {
+    "CdAwithvalueremoved": 0.292946017,
+    "Cdawithoutremovedvalue": 0.292946017,
+    "power": 293.35,
+    "speed": 38.9145,
+    "time": 43,
+    "distance": 463.512
+  },
+  {
+    "CdAwithvalueremoved": 0.290535269,
+    "Cdawithoutremovedvalue": 0.290535269,
+    "power": 291.75,
+    "speed": 38.926,
+    "time": 44,
+    "distance": 474.192
+  },
+  {
+    "CdAwithvalueremoved": 0.287679464,
+    "Cdawithoutremovedvalue": 0.287679464,
+    "power": 288.35,
+    "speed": 38.941,
+    "time": 45,
+    "distance": 484.872
+  },
+  {
+    "CdAwithvalueremoved": 0.287363341,
+    "Cdawithoutremovedvalue": 0.287363341,
+    "power": 281.35,
+    "speed": 38.965,
+    "time": 46,
+    "distance": 495.552
+  },
+  {
+    "CdAwithvalueremoved": 0.292315292,
+    "Cdawithoutremovedvalue": 0.292315292,
+    "power": 275.9,
+    "speed": 38.999,
+    "time": 47,
+    "distance": 506.232
+  },
+  {
+    "CdAwithvalueremoved": 0.291699785,
+    "Cdawithoutremovedvalue": 0.291699785,
+    "power": 279.8,
+    "speed": 38.986,
+    "time": 48,
+    "distance": 516.912
+  },
+  {
+    "CdAwithvalueremoved": 0.293044881,
+    "Cdawithoutremovedvalue": 0.293044881,
+    "power": 282.2,
+    "speed": 38.987,
+    "time": 49,
+    "distance": 527.592
+  },
+  {
+    "CdAwithvalueremoved": 0.293273988,
+    "Cdawithoutremovedvalue": 0.293273988,
+    "power": 284.55,
+    "speed": 39.002,
+    "time": 50,
+    "distance": 538.272
+  },
+  {
+    "CdAwithvalueremoved": 0.292795111,
+    "Cdawithoutremovedvalue": 0.292795111,
+    "power": 282.95,
+    "speed": 38.993,
+    "time": 51,
+    "distance": 548.952
+  },
+  {
+    "CdAwithvalueremoved": 0.289338585,
+    "Cdawithoutremovedvalue": 0.289338585,
+    "power": 282.65,
+    "speed": 38.977,
+    "time": 52,
+    "distance": 559.632
+  },
+  {
+    "CdAwithvalueremoved": 0.289724558,
+    "Cdawithoutremovedvalue": 0.289724558,
+    "power": 280.4,
+    "speed": 39.0135,
+    "time": 53,
+    "distance": 561.768
+  },
+  {
+    "CdAwithvalueremoved": 0.287847229,
+    "Cdawithoutremovedvalue": 0.287847229,
+    "power": 278.8,
+    "speed": 39.0205,
+    "time": 54,
+    "distance": 580.992
+  },
+  {
+    "CdAwithvalueremoved": 0.284490876,
+    "Cdawithoutremovedvalue": 0.284490876,
+    "power": 273,
+    "speed": 39.0395,
+    "time": 55,
+    "distance": 591.672
+  },
+  {
+    "CdAwithvalueremoved": 0.286206142,
+    "Cdawithoutremovedvalue": 0.286206142,
+    "power": 270.5,
+    "speed": 39.0295,
+    "time": 56,
+    "distance": 602.352
+  },
+  {
+    "CdAwithvalueremoved": 0.285359494,
+    "Cdawithoutremovedvalue": 0.285359494,
+    "power": 271.25,
+    "speed": 39.0265,
+    "time": 57,
+    "distance": 613.032
+  },
+  {
+    "CdAwithvalueremoved": 0.280295359,
+    "Cdawithoutremovedvalue": 0.280295359,
+    "power": 267.05,
+    "speed": 38.967,
+    "time": 58,
+    "distance": 623.712
+  },
+  {
+    "CdAwithvalueremoved": 0.273554416,
+    "Cdawithoutremovedvalue": 0.273554416,
+    "power": 264.1,
+    "speed": 38.95,
+    "time": 59,
+    "distance": 636.528
+  },
+  {
+    "CdAwithvalueremoved": 0.269055143,
+    "Cdawithoutremovedvalue": 0.269055143,
+    "power": 267.25,
+    "speed": 38.9285,
+    "time": 60,
+    "distance": 645.072
+  },
+  {
+    "CdAwithvalueremoved": 0.265647709,
+    "Cdawithoutremovedvalue": 0.265647709,
+    "power": 266.5,
+    "speed": 38.9405,
+    "time": 61,
+    "distance": 655.752
+  },
+  {
+    "CdAwithvalueremoved": 0.268232458,
+    "Cdawithoutremovedvalue": 0.268232458,
+    "power": 264.75,
+    "speed": 38.9755,
+    "time": 62,
+    "distance": 666.432
+  },
+  {
+    "CdAwithvalueremoved": 0.273985621,
+    "Cdawithoutremovedvalue": 0.273985621,
+    "power": 271.75,
+    "speed": 39.05,
+    "time": 63,
+    "distance": 677.112
+  },
+  {
+    "CdAwithvalueremoved": 0.274174871,
+    "Cdawithoutremovedvalue": 0.274174871,
+    "power": 280.8,
+    "speed": 39.1445,
+    "time": 64,
+    "distance": 687.792
+  },
+  {
+    "CdAwithvalueremoved": 0.274022311,
+    "Cdawithoutremovedvalue": 0.274022311,
+    "power": 281.5,
+    "speed": 39.2535,
+    "time": 65,
+    "distance": 700.608
+  },
+  {
+    "CdAwithvalueremoved": 0.269977717,
+    "Cdawithoutremovedvalue": 0.269977717,
+    "power": 282.9,
+    "speed": 39.3875,
+    "time": 66,
+    "distance": 713.424
+  },
+  {
+    "CdAwithvalueremoved": 0.269954708,
+    "Cdawithoutremovedvalue": 0.269954708,
+    "power": 279.05,
+    "speed": 39.4635,
+    "time": 67,
+    "distance": 724.104
+  },
+  {
+    "CdAwithvalueremoved": 0.272665721,
+    "Cdawithoutremovedvalue": 0.272665721,
+    "power": 264.25,
+    "speed": 39.498,
+    "time": 68,
+    "distance": 734.784
+  },
+  {
+    "CdAwithvalueremoved": 0.273564113,
+    "Cdawithoutremovedvalue": 0.273564113,
+    "power": 248.5,
+    "speed": 39.479,
+    "time": 69,
+    "distance": 745.464
+  },
+  {
+    "CdAwithvalueremoved": 0.274717811,
+    "Cdawithoutremovedvalue": 0.274717811,
+    "power": 240.95,
+    "speed": 39.401,
+    "time": 70,
+    "distance": 756.144
+  },
+  {
+    "CdAwithvalueremoved": 0.272816544,
+    "Cdawithoutremovedvalue": 0.272816544,
+    "power": 236.75,
+    "speed": 39.284,
+    "time": 71,
+    "distance": 766.824
+  },
+  {
+    "CdAwithvalueremoved": 0.276152791,
+    "Cdawithoutremovedvalue": 0.276152791,
+    "power": 238.95,
+    "speed": 39.148,
+    "time": 72,
+    "distance": 777.504
+  },
+  {
+    "CdAwithvalueremoved": 0.278690644,
+    "Cdawithoutremovedvalue": 0.278690644,
+    "power": 250.1,
+    "speed": 39.0115,
+    "time": 73,
+    "distance": 788.184
+  },
+  {
+    "CdAwithvalueremoved": 0.281397219,
+    "Cdawithoutremovedvalue": 0.281397219,
+    "power": 270.95,
+    "speed": 38.9485,
+    "time": 74,
+    "distance": 798.864
+  },
+  {
+    "CdAwithvalueremoved": 0.287531304,
+    "Cdawithoutremovedvalue": 0.287531304,
+    "power": 284.95,
+    "speed": 38.9515,
+    "time": 75,
+    "distance": 809.544
+  },
+  {
+    "CdAwithvalueremoved": 0.294066434,
+    "Cdawithoutremovedvalue": 0.294066434,
+    "power": 291.25,
+    "speed": 38.9485,
+    "time": 76,
+    "distance": 820.224
+  },
+  {
+    "CdAwithvalueremoved": 0.291219437,
+    "Cdawithoutremovedvalue": 0.291219437,
+    "power": 282.15,
+    "speed": 38.96,
+    "time": 77,
+    "distance": 830.904
+  },
+  {
+    "CdAwithvalueremoved": 0.286810194,
+    "Cdawithoutremovedvalue": 0.286810194,
+    "power": 272.1,
+    "speed": 38.9765,
+    "time": 78,
+    "distance": 841.584
+  },
+  {
+    "CdAwithvalueremoved": 0.287174152,
+    "Cdawithoutremovedvalue": 0.287174152,
+    "power": 250.6,
+    "speed": 38.9155,
+    "time": 79,
+    "distance": 852.264
+  },
+  {
+    "CdAwithvalueremoved": 0.292463766,
+    "Cdawithoutremovedvalue": 0.292463766,
+    "power": 242.95,
+    "speed": 38.7925,
+    "time": 80,
+    "distance": 862.944
+  },
+  {
+    "CdAwithvalueremoved": 0.2996051,
+    "Cdawithoutremovedvalue": 0.2996051,
+    "power": 243.6,
+    "speed": 38.6985,
+    "time": 81,
+    "distance": 873.624
+  },
+  {
+    "CdAwithvalueremoved": 0.298338508,
+    "Cdawithoutremovedvalue": 0.298338508,
+    "power": 257.6,
+    "speed": 38.692,
+    "time": 82,
+    "distance": 884.304
+  },
+  {
+    "CdAwithvalueremoved": 0.293935252,
+    "Cdawithoutremovedvalue": 0.293935252,
+    "power": 267.6,
+    "speed": 38.724,
+    "time": 83,
+    "distance": 894.984
+  },
+  {
+    "CdAwithvalueremoved": 0.293814008,
+    "Cdawithoutremovedvalue": 0.293814008,
+    "power": 274.45,
+    "speed": 38.7945,
+    "time": 84,
+    "distance": 905.664
+  },
+  {
+    "CdAwithvalueremoved": 0.297484522,
+    "Cdawithoutremovedvalue": 0.297484522,
+    "power": 267.65,
+    "speed": 38.8465,
+    "time": 85,
+    "distance": 916.344
+  },
+  {
+    "CdAwithvalueremoved": 0.296993844,
+    "Cdawithoutremovedvalue": 0.296993844,
+    "power": 253.55,
+    "speed": 38.838,
+    "time": 86,
+    "distance": 929.16
+  },
+  {
+    "CdAwithvalueremoved": 0.293842129,
+    "Cdawithoutremovedvalue": 0.293842129,
+    "power": 245,
+    "speed": 38.725,
+    "time": 87,
+    "distance": 939.84
+  },
+  {
+    "CdAwithvalueremoved": 0.288958168,
+    "Cdawithoutremovedvalue": 0.288958168,
+    "power": 243.6,
+    "speed": 38.6115,
+    "time": 88,
+    "distance": 950.52
+  },
+  {
+    "CdAwithvalueremoved": 0.284256804,
+    "Cdawithoutremovedvalue": 0.284256804,
+    "power": 247.2,
+    "speed": 38.469,
+    "time": 89,
+    "distance": 961.2
+  },
+  {
+    "CdAwithvalueremoved": 0.28091519,
+    "Cdawithoutremovedvalue": 0.28091519,
+    "power": 254.8,
+    "speed": 38.367,
+    "time": 90,
+    "distance": 971.88
+  },
+  {
+    "CdAwithvalueremoved": 0.276692436,
+    "Cdawithoutremovedvalue": 0.276692436,
+    "power": 268.75,
+    "speed": 38.3465,
+    "time": 91,
+    "distance": 980.424
+  },
+  {
+    "CdAwithvalueremoved": 0.274653161,
+    "Cdawithoutremovedvalue": 0.274653161,
+    "power": 273.95,
+    "speed": 38.4015,
+    "time": 92,
+    "distance": 993.24
+  },
+  {
+    "CdAwithvalueremoved": 0.27218282,
+    "Cdawithoutremovedvalue": 0.27218282,
+    "power": 270,
+    "speed": 38.4475,
+    "time": 93,
+    "distance": 1003.92
+  },
+  {
+    "CdAwithvalueremoved": 0.270632025,
+    "Cdawithoutremovedvalue": 0.270632025,
+    "power": 267.6,
+    "speed": 38.512,
+    "time": 94,
+    "distance": 1014.6
+  },
+  {
+    "CdAwithvalueremoved": 0.270910512,
+    "Cdawithoutremovedvalue": 0.270910512,
+    "power": 266.65,
+    "speed": 38.614,
+    "time": 95,
+    "distance": 1025.28
+  },
+  {
+    "CdAwithvalueremoved": 0.26906521,
+    "Cdawithoutremovedvalue": 0.26906521,
+    "power": 260.9,
+    "speed": 38.721,
+    "time": 96,
+    "distance": 1035.96
+  },
+  {
+    "CdAwithvalueremoved": 0.26431212,
+    "Cdawithoutremovedvalue": 0.26431212,
+    "power": 255.5,
+    "speed": 38.8035,
+    "time": 97,
+    "distance": 1046.64
+  },
+  {
+    "CdAwithvalueremoved": 0.265436077,
+    "Cdawithoutremovedvalue": 0.265436077,
+    "power": 256.3,
+    "speed": 38.9175,
+    "time": 98,
+    "distance": 1057.32
+  },
+  {
+    "CdAwithvalueremoved": 0.269531704,
+    "Cdawithoutremovedvalue": 0.269531704,
+    "power": 256.45,
+    "speed": 39.0295,
+    "time": 99,
+    "distance": 1068
+  },
+  {
+    "CdAwithvalueremoved": 0.269601587,
+    "Cdawithoutremovedvalue": 0.269601587,
+    "power": 252.2,
+    "speed": 39.064,
+    "time": 100,
+    "distance": 1078.68
+  },
+  {
+    "CdAwithvalueremoved": 0.271382514,
+    "Cdawithoutremovedvalue": 0.271382514,
+    "power": 255,
+    "speed": 39.0635,
+    "time": 101,
+    "distance": 1089.36
+  },
+  {
+    "CdAwithvalueremoved": 0.273211548,
+    "Cdawithoutremovedvalue": 0.273211548,
+    "power": 259.75,
+    "speed": 39.0875,
+    "time": 102,
+    "distance": 1100.04
+  },
+  {
+    "CdAwithvalueremoved": 0.279401191,
+    "Cdawithoutremovedvalue": 0.279401191,
+    "power": 262.65,
+    "speed": 39.073,
+    "time": 103,
+    "distance": 1110.72
+  },
+  {
+    "CdAwithvalueremoved": 0.289156662,
+    "Cdawithoutremovedvalue": 0.289156662,
+    "power": 263.15,
+    "speed": 39.0415,
+    "time": 104,
+    "distance": 1121.4
+  },
+  {
+    "CdAwithvalueremoved": 0.292355253,
+    "Cdawithoutremovedvalue": 0.292355253,
+    "power": 259.95,
+    "speed": 39.0415,
+    "time": 105,
+    "distance": 1132.08
+  },
+  {
+    "CdAwithvalueremoved": 0.294380353,
+    "Cdawithoutremovedvalue": 0.294380353,
+    "power": 255.8,
+    "speed": 39.0345,
+    "time": 106,
+    "distance": 1142.76
+  },
+  {
+    "CdAwithvalueremoved": 0.295948355,
+    "Cdawithoutremovedvalue": 0.295948355,
+    "power": 253.8,
+    "speed": 38.996,
+    "time": 107,
+    "distance": 1149.168
+  },
+  {
+    "CdAwithvalueremoved": 0.297605626,
+    "Cdawithoutremovedvalue": 0.297605626,
+    "power": 252.05,
+    "speed": 38.925,
+    "time": 108,
+    "distance": 1157.712
+  },
+  {
+    "CdAwithvalueremoved": 0.294635715,
+    "Cdawithoutremovedvalue": 0.294635715,
+    "power": 253.25,
+    "speed": 38.8495,
+    "time": 109,
+    "distance": 1174.8
+  },
+  {
+    "CdAwithvalueremoved": 0.289492879,
+    "Cdawithoutremovedvalue": 0.289492879,
+    "power": 266.55,
+    "speed": 38.8145,
+    "time": 110,
+    "distance": 1185.48
+  },
+  {
+    "CdAwithvalueremoved": 0.288973799,
+    "Cdawithoutremovedvalue": 0.288973799,
+    "power": 275.05,
+    "speed": 38.812,
+    "time": 111,
+    "distance": 1196.16
+  },
+  {
+    "CdAwithvalueremoved": 0.292700069,
+    "Cdawithoutremovedvalue": 0.292700069,
+    "power": 281.5,
+    "speed": 38.836,
+    "time": 112,
+    "distance": 1206.84
+  },
+  {
+    "CdAwithvalueremoved": 0.290041184,
+    "Cdawithoutremovedvalue": 0.290041184,
+    "power": 286.15,
+    "speed": 38.9335,
+    "time": 113,
+    "distance": 1217.52
+  },
+  {
+    "CdAwithvalueremoved": 0.284287169,
+    "Cdawithoutremovedvalue": 0.284287169,
+    "power": 281.85,
+    "speed": 39.06,
+    "time": 114,
+    "distance": 1230.336
+  },
+  {
+    "CdAwithvalueremoved": 0.284462796,
+    "Cdawithoutremovedvalue": 0.284462796,
+    "power": 269.25,
+    "speed": 39.138,
+    "time": 115,
+    "distance": 1241.016
+  },
+  {
+    "CdAwithvalueremoved": 0.288956739,
+    "Cdawithoutremovedvalue": 0.288956739,
+    "power": 257.9,
+    "speed": 39.1765,
+    "time": 116,
+    "distance": 1251.696
+  },
+  {
+    "CdAwithvalueremoved": 0.288958048,
+    "Cdawithoutremovedvalue": 0.288958048,
+    "power": 250.25,
+    "speed": 39.1625,
+    "time": 117,
+    "distance": 1262.376
+  },
+  {
+    "CdAwithvalueremoved": 0.283227062,
+    "Cdawithoutremovedvalue": 0.283227062,
+    "power": 243.7,
+    "speed": 39.0795,
+    "time": 118,
+    "distance": 1273.056
+  },
+  {
+    "CdAwithvalueremoved": 0.277860719,
+    "Cdawithoutremovedvalue": 0.277860719,
+    "power": 244.2,
+    "speed": 39.0065,
+    "time": 119,
+    "distance": 1283.736
+  },
+  {
+    "CdAwithvalueremoved": 0.275552022,
+    "Cdawithoutremovedvalue": 0.275552022,
+    "power": 251.6,
+    "speed": 38.963,
+    "time": 120,
+    "distance": 1294.416
+  },
+  {
+    "CdAwithvalueremoved": 0.277527148,
+    "Cdawithoutremovedvalue": 0.277527148,
+    "power": 261.25,
+    "speed": 38.921,
+    "time": 121,
+    "distance": 1305.096
+  },
+  {
+    "CdAwithvalueremoved": 0.284053534,
+    "Cdawithoutremovedvalue": 0.284053534,
+    "power": 258.85,
+    "speed": 38.8835,
+    "time": 122,
+    "distance": 1315.776
+  },
+  {
+    "CdAwithvalueremoved": 0.290852468,
+    "Cdawithoutremovedvalue": 0.290852468,
+    "power": 260.65,
+    "speed": 38.8715,
+    "time": 123,
+    "distance": 1326.456
+  },
+  {
+    "CdAwithvalueremoved": 0.296460858,
+    "Cdawithoutremovedvalue": 0.296460858,
+    "power": 267.05,
+    "speed": 38.8415,
+    "time": 124,
+    "distance": 1337.136
+  },
+  {
+    "CdAwithvalueremoved": 0.298085256,
+    "Cdawithoutremovedvalue": 0.298085256,
+    "power": 271.4,
+    "speed": 38.8205,
+    "time": 125,
+    "distance": 1347.816
+  },
+  {
+    "CdAwithvalueremoved": 0.299862876,
+    "Cdawithoutremovedvalue": 0.299862876,
+    "power": 271.6,
+    "speed": 38.8105,
+    "time": 126,
+    "distance": 1358.496
+  },
+  {
+    "CdAwithvalueremoved": 0.305072358,
+    "Cdawithoutremovedvalue": 0.305072358,
+    "power": 278.25,
+    "speed": 38.794,
+    "time": 127,
+    "distance": 1369.176
+  },
+  {
+    "CdAwithvalueremoved": 0.325326154,
+    "Cdawithoutremovedvalue": 0.325326154,
+    "power": 280.3,
+    "speed": 38.758,
+    "time": 128,
+    "distance": 1379.856
+  },
+  {
+    "CdAwithvalueremoved": 0.384935966,
+    "Cdawithoutremovedvalue": 0.384935966,
+    "power": 275.1,
+    "speed": 38.72,
+    "time": 129,
+    "distance": 1390.536
+  },
+  {
+    "CdAwithvalueremoved": 0.486848229,
+    "Cdawithoutremovedvalue": 0.486848229,
+    "power": 266.8,
+    "speed": 38.6595,
+    "time": 130,
+    "distance": 1401.216
+  },
+  {
+    "CdAwithvalueremoved": 0.616726729,
+    "Cdawithoutremovedvalue": 0.616726729,
+    "power": 249.15,
+    "speed": 38.5725,
+    "time": 131,
+    "distance": 1411.896
+  },
+  {
+    "CdAwithvalueremoved": 0.748284059,
+    "Cdawithoutremovedvalue": 0.748284059,
+    "power": 229.2,
+    "speed": 38.445,
+    "time": 132,
+    "distance": 1420.44
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.855992369,
+    "power": 210.4,
+    "speed": 38.115,
+    "time": 133,
+    "distance": 1431.12
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.960582713,
+    "power": 167.7,
+    "speed": 37.3925,
+    "time": 134,
+    "distance": 1441.8
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.079901962,
+    "power": 117.75,
+    "speed": 35.657,
+    "time": 135,
+    "distance": 1452.48
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.207936955,
+    "power": 79.2,
+    "speed": 32.793,
+    "time": 136,
+    "distance": 1463.16
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.354507591,
+    "power": 44,
+    "speed": 29.073,
+    "time": 137,
+    "distance": 1469.568
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.497276897,
+    "power": 8.8,
+    "speed": 24.771,
+    "time": 138,
+    "distance": 1475.976
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.661142154,
+    "power": 0,
+    "speed": 20.2145,
+    "time": 139,
+    "distance": 1480.248
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.825484086,
+    "power": 0,
+    "speed": 16.318,
+    "time": 140,
+    "distance": 1482.384
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.991821479,
+    "power": 0,
+    "speed": 13.3235,
+    "time": 141,
+    "distance": 1486.656
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 2.235831814,
+    "power": 0,
+    "speed": 11.022,
+    "time": 142,
+    "distance": 1488.792
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 2.399537545,
+    "power": 0,
+    "speed": 9.939,
+    "time": 143,
+    "distance": 1490.928
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 2.088824683,
+    "power": 28.6,
+    "speed": 10.276,
+    "time": 144,
+    "distance": 1493.064
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.341648336,
+    "power": 85.8,
+    "speed": 11.6385,
+    "time": 145,
+    "distance": 1497.336
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.574134965,
+    "power": 173.4,
+    "speed": 13.9975,
+    "time": 146,
+    "distance": 1501.608
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.180364624,
+    "power": 269.6,
+    "speed": 17.1255,
+    "time": 147,
+    "distance": 1508.016
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.108574665,
+    "power": 367.6,
+    "speed": 20.2865,
+    "time": 148,
+    "distance": 1514.424
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.039235639,
+    "power": 429.5,
+    "speed": 23.0615,
+    "time": 149,
+    "distance": 1520.832
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.005273822,
+    "power": 463.5,
+    "speed": 25.493,
+    "time": 150,
+    "distance": 1527.24
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.011371249,
+    "power": 468.5,
+    "speed": 27.5785,
+    "time": 151,
+    "distance": 1535.784
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.023422121,
+    "power": 467.5,
+    "speed": 29.2775,
+    "time": 152,
+    "distance": 1544.328
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.066734801,
+    "power": 452.8,
+    "speed": 30.6715,
+    "time": 153,
+    "distance": 1552.872
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.122979391,
+    "power": 440.9,
+    "speed": 31.9045,
+    "time": 154,
+    "distance": 1561.416
+  },
+  {
+    "CdAwithvalueremoved": 0.186247312,
+    "Cdawithoutremovedvalue": 0.186247312,
+    "power": 420.5,
+    "speed": 32.963,
+    "time": 155,
+    "distance": 1567.824
+  },
+  {
+    "CdAwithvalueremoved": 0.217870355,
+    "Cdawithoutremovedvalue": 0.217870355,
+    "power": 399.1,
+    "speed": 33.7735,
+    "time": 156,
+    "distance": 1580.64
+  },
+  {
+    "CdAwithvalueremoved": 0.218443339,
+    "Cdawithoutremovedvalue": 0.218443339,
+    "power": 357.1,
+    "speed": 34.5115,
+    "time": 157,
+    "distance": 1587.048
+  },
+  {
+    "CdAwithvalueremoved": 0.222020432,
+    "Cdawithoutremovedvalue": 0.222020432,
+    "power": 307.8,
+    "speed": 35.0955,
+    "time": 158,
+    "distance": 1599.864
+  },
+  {
+    "CdAwithvalueremoved": 0.228757304,
+    "Cdawithoutremovedvalue": 0.228757304,
+    "power": 275.3,
+    "speed": 35.4775,
+    "time": 159,
+    "distance": 1606.272
+  },
+  {
+    "CdAwithvalueremoved": 0.237857492,
+    "Cdawithoutremovedvalue": 0.237857492,
+    "power": 245.9,
+    "speed": 35.708,
+    "time": 160,
+    "distance": 1614.816
+  },
+  {
+    "CdAwithvalueremoved": 0.260178563,
+    "Cdawithoutremovedvalue": 0.260178563,
+    "power": 217.5,
+    "speed": 35.8085,
+    "time": 161,
+    "distance": 1623.36
+  },
+  {
+    "CdAwithvalueremoved": 0.259343543,
+    "Cdawithoutremovedvalue": 0.259343543,
+    "power": 224.7,
+    "speed": 35.945,
+    "time": 162,
+    "distance": 1638.312
+  },
+  {
+    "CdAwithvalueremoved": 0.235330183,
+    "Cdawithoutremovedvalue": 0.235330183,
+    "power": 248.5,
+    "speed": 36.1735,
+    "time": 163,
+    "distance": 1648.992
+  },
+  {
+    "CdAwithvalueremoved": 0.240657774,
+    "Cdawithoutremovedvalue": 0.240657774,
+    "power": 264.2,
+    "speed": 36.444,
+    "time": 164,
+    "distance": 1657.536
+  },
+  {
+    "CdAwithvalueremoved": 0.244826864,
+    "Cdawithoutremovedvalue": 0.244826864,
+    "power": 271.8,
+    "speed": 36.707,
+    "time": 165,
+    "distance": 1668.216
+  },
+  {
+    "CdAwithvalueremoved": 0.249788527,
+    "Cdawithoutremovedvalue": 0.249788527,
+    "power": 278.4,
+    "speed": 36.952,
+    "time": 166,
+    "distance": 1678.896
+  },
+  {
+    "CdAwithvalueremoved": 0.256974025,
+    "Cdawithoutremovedvalue": 0.256974025,
+    "power": 266.9,
+    "speed": 37.1335,
+    "time": 167,
+    "distance": 1689.576
+  },
+  {
+    "CdAwithvalueremoved": 0.25610613,
+    "Cdawithoutremovedvalue": 0.25610613,
+    "power": 259.9,
+    "speed": 37.279,
+    "time": 168,
+    "distance": 1702.392
+  },
+  {
+    "CdAwithvalueremoved": 0.258985383,
+    "Cdawithoutremovedvalue": 0.258985383,
+    "power": 246.3,
+    "speed": 37.3765,
+    "time": 169,
+    "distance": 1713.072
+  },
+  {
+    "CdAwithvalueremoved": 0.259424242,
+    "Cdawithoutremovedvalue": 0.259424242,
+    "power": 247.6,
+    "speed": 37.4875,
+    "time": 170,
+    "distance": 1721.616
+  },
+  {
+    "CdAwithvalueremoved": 0.264748773,
+    "Cdawithoutremovedvalue": 0.264748773,
+    "power": 250.6,
+    "speed": 37.567,
+    "time": 171,
+    "distance": 1732.296
+  },
+  {
+    "CdAwithvalueremoved": 0.276486399,
+    "Cdawithoutremovedvalue": 0.276486399,
+    "power": 253.3,
+    "speed": 37.6115,
+    "time": 172,
+    "distance": 1742.976
+  },
+  {
+    "CdAwithvalueremoved": 0.280436915,
+    "Cdawithoutremovedvalue": 0.280436915,
+    "power": 257.6,
+    "speed": 37.6205,
+    "time": 173,
+    "distance": 1753.656
+  },
+  {
+    "CdAwithvalueremoved": 0.276829496,
+    "Cdawithoutremovedvalue": 0.276829496,
+    "power": 268,
+    "speed": 37.6475,
+    "time": 174,
+    "distance": 1764.336
+  },
+  {
+    "CdAwithvalueremoved": 0.275078404,
+    "Cdawithoutremovedvalue": 0.275078404,
+    "power": 276.3,
+    "speed": 37.6745,
+    "time": 175,
+    "distance": 1775.016
+  },
+  {
+    "CdAwithvalueremoved": 0.270546645,
+    "Cdawithoutremovedvalue": 0.270546645,
+    "power": 276.4,
+    "speed": 37.769,
+    "time": 176,
+    "distance": 1783.56
+  },
+  {
+    "CdAwithvalueremoved": 0.273404225,
+    "Cdawithoutremovedvalue": 0.273404225,
+    "power": 274.9,
+    "speed": 37.8275,
+    "time": 177,
+    "distance": 1794.24
+  },
+  {
+    "CdAwithvalueremoved": 0.27756623,
+    "Cdawithoutremovedvalue": 0.27756623,
+    "power": 262.2,
+    "speed": 37.8905,
+    "time": 178,
+    "distance": 1804.92
+  },
+  {
+    "CdAwithvalueremoved": 0.278694487,
+    "Cdawithoutremovedvalue": 0.278694487,
+    "power": 257.6,
+    "speed": 37.9225,
+    "time": 179,
+    "distance": 1815.6
+  },
+  {
+    "CdAwithvalueremoved": 0.284232737,
+    "Cdawithoutremovedvalue": 0.284232737,
+    "power": 254.8,
+    "speed": 38.01,
+    "time": 180,
+    "distance": 1826.28
+  },
+  {
+    "CdAwithvalueremoved": 0.278349368,
+    "Cdawithoutremovedvalue": 0.278349368,
+    "power": 257.9,
+    "speed": 38.0945,
+    "time": 181,
+    "distance": 1836.96
+  },
+  {
+    "CdAwithvalueremoved": 0.275685901,
+    "Cdawithoutremovedvalue": 0.275685901,
+    "power": 263.4,
+    "speed": 38.2155,
+    "time": 182,
+    "distance": 1847.64
+  },
+  {
+    "CdAwithvalueremoved": 0.279191346,
+    "Cdawithoutremovedvalue": 0.279191346,
+    "power": 276.6,
+    "speed": 38.3505,
+    "time": 183,
+    "distance": 1858.32
+  },
+  {
+    "CdAwithvalueremoved": 0.2829747,
+    "Cdawithoutremovedvalue": 0.2829747,
+    "power": 280.2,
+    "speed": 38.4945,
+    "time": 184,
+    "distance": 1869
+  },
+  {
+    "CdAwithvalueremoved": 0.287319958,
+    "Cdawithoutremovedvalue": 0.287319958,
+    "power": 282,
+    "speed": 38.599,
+    "time": 185,
+    "distance": 1879.68
+  },
+  {
+    "CdAwithvalueremoved": 0.289476249,
+    "Cdawithoutremovedvalue": 0.289476249,
+    "power": 284,
+    "speed": 38.709,
+    "time": 186,
+    "distance": 1886.088
+  },
+  {
+    "CdAwithvalueremoved": 0.287283064,
+    "Cdawithoutremovedvalue": 0.287283064,
+    "power": 281,
+    "speed": 38.8025,
+    "time": 187,
+    "distance": 1901.04
+  },
+  {
+    "CdAwithvalueremoved": 0.288505597,
+    "Cdawithoutremovedvalue": 0.288505597,
+    "power": 277,
+    "speed": 38.8655,
+    "time": 188,
+    "distance": 1911.72
+  },
+  {
+    "CdAwithvalueremoved": 0.294820383,
+    "Cdawithoutremovedvalue": 0.294820383,
+    "power": 271.2,
+    "speed": 38.8775,
+    "time": 189,
+    "distance": 1922.4
+  },
+  {
+    "CdAwithvalueremoved": 0.297667302,
+    "Cdawithoutremovedvalue": 0.297667302,
+    "power": 263.6,
+    "speed": 38.82,
+    "time": 190,
+    "distance": 1928.808
+  },
+  {
+    "CdAwithvalueremoved": 0.300356949,
+    "Cdawithoutremovedvalue": 0.300356949,
+    "power": 254.2,
+    "speed": 38.7195,
+    "time": 191,
+    "distance": 1943.76
+  },
+  {
+    "CdAwithvalueremoved": 0.298005045,
+    "Cdawithoutremovedvalue": 0.298005045,
+    "power": 256,
+    "speed": 38.6305,
+    "time": 192,
+    "distance": 1954.44
+  },
+  {
+    "CdAwithvalueremoved": 0.292974348,
+    "Cdawithoutremovedvalue": 0.292974348,
+    "power": 254,
+    "speed": 38.5355,
+    "time": 193,
+    "distance": 1965.12
+  },
+  {
+    "CdAwithvalueremoved": 0.286932394,
+    "Cdawithoutremovedvalue": 0.286932394,
+    "power": 254.4,
+    "speed": 38.454,
+    "time": 194,
+    "distance": 1975.8
+  },
+  {
+    "CdAwithvalueremoved": 0.284136914,
+    "Cdawithoutremovedvalue": 0.284136914,
+    "power": 253.3,
+    "speed": 38.4355,
+    "time": 195,
+    "distance": 1984.344
+  },
+  {
+    "CdAwithvalueremoved": 0.286626952,
+    "Cdawithoutremovedvalue": 0.286626952,
+    "power": 255.3,
+    "speed": 38.4125,
+    "time": 196,
+    "distance": 1999.296
+  },
+  {
+    "CdAwithvalueremoved": 0.28489617,
+    "Cdawithoutremovedvalue": 0.28489617,
+    "power": 257.9,
+    "speed": 38.39,
+    "time": 197,
+    "distance": 2009.976
+  },
+  {
+    "CdAwithvalueremoved": 0.285154476,
+    "Cdawithoutremovedvalue": 0.285154476,
+    "power": 261.9,
+    "speed": 38.4265,
+    "time": 198,
+    "distance": 2018.52
+  },
+  {
+    "CdAwithvalueremoved": 0.279432719,
+    "Cdawithoutremovedvalue": 0.279432719,
+    "power": 261.5,
+    "speed": 38.515,
+    "time": 199,
+    "distance": 2029.2
+  },
+  {
+    "CdAwithvalueremoved": 0.269401961,
+    "Cdawithoutremovedvalue": 0.269401961,
+    "power": 265.8,
+    "speed": 38.604,
+    "time": 200,
+    "distance": 2039.88
+  },
+  {
+    "CdAwithvalueremoved": 0.265717676,
+    "Cdawithoutremovedvalue": 0.265717676,
+    "power": 263.9,
+    "speed": 38.6975,
+    "time": 201,
+    "distance": 2050.56
+  },
+  {
+    "CdAwithvalueremoved": 0.26303085,
+    "Cdawithoutremovedvalue": 0.26303085,
+    "power": 255.1,
+    "speed": 38.7715,
+    "time": 202,
+    "distance": 2061.24
+  },
+  {
+    "CdAwithvalueremoved": 0.264491075,
+    "Cdawithoutremovedvalue": 0.264491075,
+    "power": 254.2,
+    "speed": 38.767,
+    "time": 203,
+    "distance": 2071.92
+  },
+  {
+    "CdAwithvalueremoved": 0.265189491,
+    "Cdawithoutremovedvalue": 0.265189491,
+    "power": 256.8,
+    "speed": 38.753,
+    "time": 204,
+    "distance": 2082.6
+  },
+  {
+    "CdAwithvalueremoved": 0.264513435,
+    "Cdawithoutremovedvalue": 0.264513435,
+    "power": 261.2,
+    "speed": 38.7585,
+    "time": 205,
+    "distance": 2093.28
+  },
+  {
+    "CdAwithvalueremoved": 0.268358329,
+    "Cdawithoutremovedvalue": 0.268358329,
+    "power": 269.9,
+    "speed": 38.8075,
+    "time": 206,
+    "distance": 2103.96
+  },
+  {
+    "CdAwithvalueremoved": 0.268869219,
+    "Cdawithoutremovedvalue": 0.268869219,
+    "power": 269.7,
+    "speed": 38.847,
+    "time": 207,
+    "distance": 2114.64
+  },
+  {
+    "CdAwithvalueremoved": 0.272334882,
+    "Cdawithoutremovedvalue": 0.272334882,
+    "power": 267,
+    "speed": 38.895,
+    "time": 208,
+    "distance": 2125.32
+  },
+  {
+    "CdAwithvalueremoved": 0.274192246,
+    "Cdawithoutremovedvalue": 0.274192246,
+    "power": 267.3,
+    "speed": 38.929,
+    "time": 209,
+    "distance": 2136
+  },
+  {
+    "CdAwithvalueremoved": 0.271617957,
+    "Cdawithoutremovedvalue": 0.271617957,
+    "power": 264.9,
+    "speed": 38.953,
+    "time": 210,
+    "distance": 2146.68
+  },
+  {
+    "CdAwithvalueremoved": 0.274812748,
+    "Cdawithoutremovedvalue": 0.274812748,
+    "power": 262.3,
+    "speed": 38.943,
+    "time": 211,
+    "distance": 2157.36
+  },
+  {
+    "CdAwithvalueremoved": 0.278715202,
+    "Cdawithoutremovedvalue": 0.278715202,
+    "power": 269.3,
+    "speed": 38.972,
+    "time": 212,
+    "distance": 2168.04
+  },
+  {
+    "CdAwithvalueremoved": 0.276062489,
+    "Cdawithoutremovedvalue": 0.276062489,
+    "power": 270.7,
+    "speed": 39.03,
+    "time": 213,
+    "distance": 2178.72
+  },
+  {
+    "CdAwithvalueremoved": 0.276613592,
+    "Cdawithoutremovedvalue": 0.276613592,
+    "power": 269.5,
+    "speed": 39.123,
+    "time": 214,
+    "distance": 2189.4
+  },
+  {
+    "CdAwithvalueremoved": 0.28666487,
+    "Cdawithoutremovedvalue": 0.28666487,
+    "power": 265.4,
+    "speed": 39.1965,
+    "time": 215,
+    "distance": 2200.08
+  },
+  {
+    "CdAwithvalueremoved": 0.290458518,
+    "Cdawithoutremovedvalue": 0.290458518,
+    "power": 266,
+    "speed": 39.2355,
+    "time": 216,
+    "distance": 2210.76
+  },
+  {
+    "CdAwithvalueremoved": 0.288967255,
+    "Cdawithoutremovedvalue": 0.288967255,
+    "power": 265.3,
+    "speed": 39.258,
+    "time": 217,
+    "distance": 2219.304
+  },
+  {
+    "CdAwithvalueremoved": 0.288553634,
+    "Cdawithoutremovedvalue": 0.288553634,
+    "power": 262.5,
+    "speed": 39.2695,
+    "time": 218,
+    "distance": 2229.984
+  },
+  {
+    "CdAwithvalueremoved": 0.288364643,
+    "Cdawithoutremovedvalue": 0.288364643,
+    "power": 263.2,
+    "speed": 39.2345,
+    "time": 219,
+    "distance": 2244.936
+  },
+  {
+    "CdAwithvalueremoved": 0.287634889,
+    "Cdawithoutremovedvalue": 0.287634889,
+    "power": 270.4,
+    "speed": 39.1805,
+    "time": 220,
+    "distance": 2255.616
+  },
+  {
+    "CdAwithvalueremoved": 0.283799541,
+    "Cdawithoutremovedvalue": 0.283799541,
+    "power": 273.2,
+    "speed": 39.1805,
+    "time": 221,
+    "distance": 2266.296
+  },
+  {
+    "CdAwithvalueremoved": 0.279526403,
+    "Cdawithoutremovedvalue": 0.279526403,
+    "power": 279.1,
+    "speed": 39.231,
+    "time": 222,
+    "distance": 2272.704
+  },
+  {
+    "CdAwithvalueremoved": 0.278457426,
+    "Cdawithoutremovedvalue": 0.278457426,
+    "power": 293,
+    "speed": 39.3075,
+    "time": 223,
+    "distance": 2289.792
+  },
+  {
+    "CdAwithvalueremoved": 0.282084548,
+    "Cdawithoutremovedvalue": 0.282084548,
+    "power": 303.6,
+    "speed": 39.4465,
+    "time": 224,
+    "distance": 2300.472
+  },
+  {
+    "CdAwithvalueremoved": 0.286510041,
+    "Cdawithoutremovedvalue": 0.286510041,
+    "power": 313.5,
+    "speed": 39.676,
+    "time": 225,
+    "distance": 2311.152
+  },
+  {
+    "CdAwithvalueremoved": 0.283402369,
+    "Cdawithoutremovedvalue": 0.283402369,
+    "power": 324,
+    "speed": 39.959,
+    "time": 226,
+    "distance": 2321.832
+  },
+  {
+    "CdAwithvalueremoved": 0.279519453,
+    "Cdawithoutremovedvalue": 0.279519453,
+    "power": 327,
+    "speed": 40.2635,
+    "time": 227,
+    "distance": 2334.648
+  },
+  {
+    "CdAwithvalueremoved": 0.282242971,
+    "Cdawithoutremovedvalue": 0.282242971,
+    "power": 301.45,
+    "speed": 40.5375,
+    "time": 228,
+    "distance": 2345.328
+  },
+  {
+    "CdAwithvalueremoved": 0.28460576,
+    "Cdawithoutremovedvalue": 0.28460576,
+    "power": 271.8,
+    "speed": 40.6705,
+    "time": 229,
+    "distance": 2356.008
+  },
+  {
+    "CdAwithvalueremoved": 0.276783422,
+    "Cdawithoutremovedvalue": 0.276783422,
+    "power": 249.85,
+    "speed": 40.707,
+    "time": 230,
+    "distance": 2366.688
+  },
+  {
+    "CdAwithvalueremoved": 0.273578313,
+    "Cdawithoutremovedvalue": 0.273578313,
+    "power": 226.8,
+    "speed": 40.635,
+    "time": 231,
+    "distance": 2377.368
+  },
+  {
+    "CdAwithvalueremoved": 0.274874962,
+    "Cdawithoutremovedvalue": 0.274874962,
+    "power": 209.25,
+    "speed": 40.457,
+    "time": 232,
+    "distance": 2390.184
+  },
+  {
+    "CdAwithvalueremoved": 0.269394336,
+    "Cdawithoutremovedvalue": 0.269394336,
+    "power": 218.1,
+    "speed": 40.265,
+    "time": 233,
+    "distance": 2400.864
+  },
+  {
+    "CdAwithvalueremoved": 0.268841574,
+    "Cdawithoutremovedvalue": 0.268841574,
+    "power": 229.9,
+    "speed": 40.1425,
+    "time": 234,
+    "distance": 2411.544
+  },
+  {
+    "CdAwithvalueremoved": 0.271424553,
+    "Cdawithoutremovedvalue": 0.271424553,
+    "power": 229.15,
+    "speed": 40.0135,
+    "time": 235,
+    "distance": 2422.224
+  },
+  {
+    "CdAwithvalueremoved": 0.270816473,
+    "Cdawithoutremovedvalue": 0.270816473,
+    "power": 228.95,
+    "speed": 39.8955,
+    "time": 236,
+    "distance": 2432.904
+  },
+  {
+    "CdAwithvalueremoved": 0.271420256,
+    "Cdawithoutremovedvalue": 0.271420256,
+    "power": 240.95,
+    "speed": 39.8235,
+    "time": 237,
+    "distance": 2443.584
+  },
+  {
+    "CdAwithvalueremoved": 0.275434707,
+    "Cdawithoutremovedvalue": 0.275434707,
+    "power": 243.65,
+    "speed": 39.7565,
+    "time": 238,
+    "distance": 2454.264
+  },
+  {
+    "CdAwithvalueremoved": 0.275307164,
+    "Cdawithoutremovedvalue": 0.275307164,
+    "power": 247,
+    "speed": 39.6565,
+    "time": 239,
+    "distance": 2467.08
+  },
+  {
+    "CdAwithvalueremoved": 0.272774133,
+    "Cdawithoutremovedvalue": 0.272774133,
+    "power": 252.5,
+    "speed": 39.576,
+    "time": 240,
+    "distance": 2477.76
+  },
+  {
+    "CdAwithvalueremoved": 0.274886993,
+    "Cdawithoutremovedvalue": 0.274886993,
+    "power": 256.3,
+    "speed": 39.525,
+    "time": 241,
+    "distance": 2488.44
+  },
+  {
+    "CdAwithvalueremoved": 0.282127655,
+    "Cdawithoutremovedvalue": 0.282127655,
+    "power": 248.35,
+    "speed": 39.478,
+    "time": 242,
+    "distance": 2499.12
+  },
+  {
+    "CdAwithvalueremoved": 0.280985026,
+    "Cdawithoutremovedvalue": 0.280985026,
+    "power": 242.5,
+    "speed": 39.4315,
+    "time": 243,
+    "distance": 2509.8
+  },
+  {
+    "CdAwithvalueremoved": 0.275128331,
+    "Cdawithoutremovedvalue": 0.275128331,
+    "power": 237.2,
+    "speed": 39.407,
+    "time": 244,
+    "distance": 2520.48
+  },
+  {
+    "CdAwithvalueremoved": 0.278037799,
+    "Cdawithoutremovedvalue": 0.278037799,
+    "power": 234.95,
+    "speed": 39.3945,
+    "time": 245,
+    "distance": 2531.16
+  },
+  {
+    "CdAwithvalueremoved": 0.279189766,
+    "Cdawithoutremovedvalue": 0.279189766,
+    "power": 229.5,
+    "speed": 39.304,
+    "time": 246,
+    "distance": 2541.84
+  },
+  {
+    "CdAwithvalueremoved": 0.284765277,
+    "Cdawithoutremovedvalue": 0.284765277,
+    "power": 224.8,
+    "speed": 39.1225,
+    "time": 247,
+    "distance": 2552.52
+  },
+  {
+    "CdAwithvalueremoved": 0.288968027,
+    "Cdawithoutremovedvalue": 0.288968027,
+    "power": 234.55,
+    "speed": 38.943,
+    "time": 248,
+    "distance": 2563.2
+  },
+  {
+    "CdAwithvalueremoved": 0.286497976,
+    "Cdawithoutremovedvalue": 0.286497976,
+    "power": 242.85,
+    "speed": 38.7855,
+    "time": 249,
+    "distance": 2573.88
+  },
+  {
+    "CdAwithvalueremoved": 0.286053342,
+    "Cdawithoutremovedvalue": 0.286053342,
+    "power": 244.7,
+    "speed": 38.628,
+    "time": 250,
+    "distance": 2582.424
+  },
+  {
+    "CdAwithvalueremoved": 0.291697541,
+    "Cdawithoutremovedvalue": 0.291697541,
+    "power": 256.05,
+    "speed": 38.5475,
+    "time": 251,
+    "distance": 2593.104
+  },
+  {
+    "CdAwithvalueremoved": 0.303261674,
+    "Cdawithoutremovedvalue": 0.303261674,
+    "power": 264.75,
+    "speed": 38.527,
+    "time": 252,
+    "distance": 2608.056
+  },
+  {
+    "CdAwithvalueremoved": 0.30239948,
+    "Cdawithoutremovedvalue": 0.30239948,
+    "power": 268.15,
+    "speed": 38.5255,
+    "time": 253,
+    "distance": 2618.736
+  },
+  {
+    "CdAwithvalueremoved": 0.302578437,
+    "Cdawithoutremovedvalue": 0.302578437,
+    "power": 269.25,
+    "speed": 38.5375,
+    "time": 254,
+    "distance": 2629.416
+  },
+  {
+    "CdAwithvalueremoved": 0.304291059,
+    "Cdawithoutremovedvalue": 0.304291059,
+    "power": 270.8,
+    "speed": 38.5495,
+    "time": 255,
+    "distance": 2640.096
+  },
+  {
+    "CdAwithvalueremoved": 0.302522594,
+    "Cdawithoutremovedvalue": 0.302522594,
+    "power": 266.7,
+    "speed": 38.5435,
+    "time": 256,
+    "distance": 2650.776
+  },
+  {
+    "CdAwithvalueremoved": 0.295465179,
+    "Cdawithoutremovedvalue": 0.295465179,
+    "power": 255.7,
+    "speed": 38.4705,
+    "time": 257,
+    "distance": 2661.456
+  },
+  {
+    "CdAwithvalueremoved": 0.29601828,
+    "Cdawithoutremovedvalue": 0.29601828,
+    "power": 245.4,
+    "speed": 38.377,
+    "time": 258,
+    "distance": 2672.136
+  },
+  {
+    "CdAwithvalueremoved": 0.302138606,
+    "Cdawithoutremovedvalue": 0.302138606,
+    "power": 247.8,
+    "speed": 38.3125,
+    "time": 259,
+    "distance": 2682.816
+  },
+  {
+    "CdAwithvalueremoved": 0.303362054,
+    "Cdawithoutremovedvalue": 0.303362054,
+    "power": 244.7,
+    "speed": 38.2525,
+    "time": 260,
+    "distance": 2693.496
+  },
+  {
+    "CdAwithvalueremoved": 0.305941684,
+    "Cdawithoutremovedvalue": 0.305941684,
+    "power": 243.85,
+    "speed": 38.1685,
+    "time": 261,
+    "distance": 2704.176
+  },
+  {
+    "CdAwithvalueremoved": 0.301348945,
+    "Cdawithoutremovedvalue": 0.301348945,
+    "power": 258.4,
+    "speed": 38.197,
+    "time": 262,
+    "distance": 2712.72
+  },
+  {
+    "CdAwithvalueremoved": 0.294733087,
+    "Cdawithoutremovedvalue": 0.294733087,
+    "power": 265.65,
+    "speed": 38.2725,
+    "time": 263,
+    "distance": 2723.4
+  },
+  {
+    "CdAwithvalueremoved": 0.292637442,
+    "Cdawithoutremovedvalue": 0.292637442,
+    "power": 255.1,
+    "speed": 38.31,
+    "time": 264,
+    "distance": 2734.08
+  },
+  {
+    "CdAwithvalueremoved": 0.289503135,
+    "Cdawithoutremovedvalue": 0.289503135,
+    "power": 251.8,
+    "speed": 38.333,
+    "time": 265,
+    "distance": 2744.76
+  },
+  {
+    "CdAwithvalueremoved": 0.283950151,
+    "Cdawithoutremovedvalue": 0.283950151,
+    "power": 251.65,
+    "speed": 38.385,
+    "time": 266,
+    "distance": 2755.44
+  },
+  {
+    "CdAwithvalueremoved": 0.27806526,
+    "Cdawithoutremovedvalue": 0.27806526,
+    "power": 246.2,
+    "speed": 38.4085,
+    "time": 267,
+    "distance": 2766.12
+  },
+  {
+    "CdAwithvalueremoved": 0.280035187,
+    "Cdawithoutremovedvalue": 0.280035187,
+    "power": 245.45,
+    "speed": 38.45,
+    "time": 268,
+    "distance": 2776.8
+  },
+  {
+    "CdAwithvalueremoved": 0.282307828,
+    "Cdawithoutremovedvalue": 0.282307828,
+    "power": 252.4,
+    "speed": 38.5165,
+    "time": 269,
+    "distance": 2785.344
+  },
+  {
+    "CdAwithvalueremoved": 0.281874785,
+    "Cdawithoutremovedvalue": 0.281874785,
+    "power": 257.1,
+    "speed": 38.631,
+    "time": 270,
+    "distance": 2796.024
+  },
+  {
+    "CdAwithvalueremoved": 0.286339626,
+    "Cdawithoutremovedvalue": 0.286339626,
+    "power": 254.7,
+    "speed": 38.721,
+    "time": 271,
+    "distance": 2806.704
+  },
+  {
+    "CdAwithvalueremoved": 0.29290259,
+    "Cdawithoutremovedvalue": 0.29290259,
+    "power": 251.65,
+    "speed": 38.795,
+    "time": 272,
+    "distance": 2813.112
+  },
+  {
+    "CdAwithvalueremoved": 0.291815153,
+    "Cdawithoutremovedvalue": 0.291815153,
+    "power": 249,
+    "speed": 38.804,
+    "time": 273,
+    "distance": 2830.2
+  },
+  {
+    "CdAwithvalueremoved": 0.288840483,
+    "Cdawithoutremovedvalue": 0.288840483,
+    "power": 246.45,
+    "speed": 38.793,
+    "time": 274,
+    "distance": 2840.88
+  },
+  {
+    "CdAwithvalueremoved": 0.287723498,
+    "Cdawithoutremovedvalue": 0.287723498,
+    "power": 241.8,
+    "speed": 38.711,
+    "time": 275,
+    "distance": 2851.56
+  },
+  {
+    "CdAwithvalueremoved": 0.290971076,
+    "Cdawithoutremovedvalue": 0.290971076,
+    "power": 226.3,
+    "speed": 38.5975,
+    "time": 276,
+    "distance": 2862.24
+  },
+  {
+    "CdAwithvalueremoved": 0.29892262,
+    "Cdawithoutremovedvalue": 0.29892262,
+    "power": 208.45,
+    "speed": 38.4205,
+    "time": 277,
+    "distance": 2872.92
+  },
+  {
+    "CdAwithvalueremoved": 0.310007819,
+    "Cdawithoutremovedvalue": 0.310007819,
+    "power": 188.35,
+    "speed": 38.2115,
+    "time": 278,
+    "distance": 2885.736
+  },
+  {
+    "CdAwithvalueremoved": 0.318445163,
+    "Cdawithoutremovedvalue": 0.318445163,
+    "power": 162.8,
+    "speed": 37.923,
+    "time": 279,
+    "distance": 2896.416
+  },
+  {
+    "CdAwithvalueremoved": 0.325389044,
+    "Cdawithoutremovedvalue": 0.325389044,
+    "power": 146.75,
+    "speed": 37.624,
+    "time": 280,
+    "distance": 2907.096
+  },
+  {
+    "CdAwithvalueremoved": 0.339969067,
+    "Cdawithoutremovedvalue": 0.339969067,
+    "power": 135.9,
+    "speed": 37.307,
+    "time": 281,
+    "distance": 2915.64
+  },
+  {
+    "CdAwithvalueremoved": 0.35002999,
+    "Cdawithoutremovedvalue": 0.35002999,
+    "power": 122.3,
+    "speed": 36.9375,
+    "time": 282,
+    "distance": 2926.32
+  },
+  {
+    "CdAwithvalueremoved": 0.354221436,
+    "Cdawithoutremovedvalue": 0.354221436,
+    "power": 110.75,
+    "speed": 36.487,
+    "time": 283,
+    "distance": 2937
+  },
+  {
+    "CdAwithvalueremoved": 0.356330073,
+    "Cdawithoutremovedvalue": 0.356330073,
+    "power": 103.65,
+    "speed": 36.001,
+    "time": 284,
+    "distance": 2945.544
+  },
+  {
+    "CdAwithvalueremoved": 0.378807572,
+    "Cdawithoutremovedvalue": 0.378807572,
+    "power": 89.4,
+    "speed": 35.4485,
+    "time": 285,
+    "distance": 2954.088
+  },
+  {
+    "CdAwithvalueremoved": 0.480843979,
+    "Cdawithoutremovedvalue": 0.480843979,
+    "power": 83.3,
+    "speed": 34.842,
+    "time": 286,
+    "distance": 2964.768
+  },
+  {
+    "CdAwithvalueremoved": 0.631326769,
+    "Cdawithoutremovedvalue": 0.631326769,
+    "power": 80.8,
+    "speed": 34.2,
+    "time": 287,
+    "distance": 2975.448
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.775816255,
+    "power": 66.8,
+    "speed": 33.5625,
+    "time": 288,
+    "distance": 2983.992
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 0.90879928,
+    "power": 48.8,
+    "speed": 32.9315,
+    "time": 289,
+    "distance": 2992.536
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.004163765,
+    "power": 33.3,
+    "speed": 32.2515,
+    "time": 290,
+    "distance": 3001.08
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.089407126,
+    "power": 18.5,
+    "speed": 30.7235,
+    "time": 291,
+    "distance": 3009.624
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.189764724,
+    "power": 3.7,
+    "speed": 28.2,
+    "time": 292,
+    "distance": 3018.168
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.318766152,
+    "power": 0,
+    "speed": 24.9455,
+    "time": 293,
+    "distance": 3024.576
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.502393633,
+    "power": 0,
+    "speed": 21.139,
+    "time": 294,
+    "distance": 3028.848
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 1.880753095,
+    "power": 0,
+    "speed": 17.2455,
+    "time": 295,
+    "distance": 3033.12
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 2.394313836,
+    "power": 0,
+    "speed": 14.3275,
+    "time": 296,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 3.050901879,
+    "power": 0,
+    "speed": 12.5675,
+    "time": 297,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 4.204954455,
+    "power": 0,
+    "speed": 11.666,
+    "time": 298,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 7.024075743,
+    "power": 0,
+    "speed": 11.42,
+    "time": 299,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 14.55471078,
+    "power": 0,
+    "speed": 9.707,
+    "time": 300,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 31.53127137,
+    "power": 0,
+    "speed": 7.423,
+    "time": 301,
+    "distance": 3035.256
+  },
+  {
+    "CdAwithvalueremoved": -1,
+    "Cdawithoutremovedvalue": 53.85879111,
+    "power": 0,
+    "speed": 6.42375,
+    "time": 302,
+    "distance": 3035.256
+  }
+]

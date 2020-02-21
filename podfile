@@ -4,5 +4,13 @@ platform :ios, '13.0'
 use_frameworks!
 target 'SciChartTest' do
   # Use the latest available Version
+  pod 'Firebase/Core'
+  pod 'FirebaseAnalytics'
+  pod 'FirebaseUI/Auth'
+  pod 'FirebaseUI/Email'
+  pod 'Crashlytics', '~> 3.12.0'
+  pod 'FirebasePerformance', '~> 2.2'
+  pod 'iOSDFULibrary'
+  pod 'Segmentio'
   pod 'SciChart'
 end

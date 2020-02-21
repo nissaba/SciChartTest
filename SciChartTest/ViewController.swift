@@ -90,7 +90,7 @@ class ViewController: UIViewController {
         zoomPanModifier.direction = .xDirection
         zoomPanModifier.clipModeX = .stretchAtExtents
         zoomPanModifier.clipModeY = .none
-        zoomPanModifier.zoomExtentsY = true
+        zoomPanModifier.zoomExtentsY = false
         
         SCIUpdateSuspender.usingWith(surface) {
             surface.xAxes.add(xAxis)

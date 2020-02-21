@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="fs3-Ad-DC5">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -42,7 +43,7 @@
                                 </subviews>
                             </stackView>
                         </subviews>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="OGd-5g-e7j" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="H4T-wd-Wfk"/>
                             <constraint firstItem="OGd-5g-e7j" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LSV-x5-5c3"/>
@@ -50,6 +51,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <tabBarItem key="tabBarItem" systemItem="mostViewed" id="fsB-Mf-5CR"/>
                     <connections>
                         <outlet property="cdaSurface" destination="IaL-xx-Irp" id="ZaY-kw-4Kh"/>
                         <outlet property="powerSurface" destination="5ys-H9-PE4" id="AcG-8Q-o9X"/>
@@ -58,7 +60,72 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
+            <point key="canvasLocation" x="470" y="678"/>
+        </scene>
+        <!--Single Graph View Controller-->
+        <scene sceneID="6aK-0r-CGW">
+            <objects>
+                <viewController id="kMK-ut-TKg" customClass="SingleGraphViewController" customModule="SciChartTest" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="fqN-tV-HkA">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Iml-Bn-Xsz">
+                                <rect key="frame" x="8" y="315" width="398" height="266"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Aoq-wp-6az" customClass="SCIChartSurface">
+                                        <rect key="frame" x="0.0" y="8" width="398" height="250"/>
+                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="250" id="GKX-Gx-pC2"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="Aoq-wp-6az" firstAttribute="centerX" secondItem="Iml-Bn-Xsz" secondAttribute="centerX" id="70f-wF-eYp"/>
+                                    <constraint firstItem="Aoq-wp-6az" firstAttribute="top" secondItem="Iml-Bn-Xsz" secondAttribute="top" constant="8" id="SUz-4m-KGx"/>
+                                    <constraint firstItem="Aoq-wp-6az" firstAttribute="leading" secondItem="Iml-Bn-Xsz" secondAttribute="leading" id="TKB-8s-876"/>
+                                    <constraint firstAttribute="bottom" secondItem="Aoq-wp-6az" secondAttribute="bottom" constant="8" id="g4s-y2-diy"/>
+                                    <constraint firstItem="Aoq-wp-6az" firstAttribute="centerY" secondItem="Iml-Bn-Xsz" secondAttribute="centerY" id="lub-GN-zlN"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Iml-Bn-Xsz" firstAttribute="centerY" secondItem="fqN-tV-HkA" secondAttribute="centerY" id="Kcw-1J-m3j"/>
+                            <constraint firstItem="fSu-nv-fmq" firstAttribute="trailing" secondItem="Iml-Bn-Xsz" secondAttribute="trailing" constant="8" id="R1o-AD-W84"/>
+                            <constraint firstItem="Iml-Bn-Xsz" firstAttribute="leading" secondItem="fSu-nv-fmq" secondAttribute="leading" constant="8" id="yJT-5J-mIl"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="fSu-nv-fmq"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" systemItem="mostRecent" id="iDB-o6-Zex"/>
+                    <connections>
+                        <outlet property="surface" destination="Aoq-wp-6az" id="8aG-SU-ibn"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="V4g-II-m36" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="471" y="23"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="Yqw-ic-4Sb">
+            <objects>
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="fs3-Ad-DC5" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="cJH-EF-y46">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="kMK-ut-TKg" kind="relationship" relationship="viewControllers" id="vKW-Ux-aVo"/>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="Zf2-ay-qnH"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Ac-8l-12E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-471.01449275362324" y="146.65178571428569"/>
         </scene>
     </scenes>
 </document>

@@ -9,15 +9,26 @@
 import UIKit
 import SciChart
 
+class DistancelabelProvider: SCINumericLabelProvider {
+    override func formatLabel(_ dataValue: ISCIComparable!) -> ISCIString! {
+        
+        let doubleValue = dataValue.toDouble()
+        var distanceValue = Measurement(value: doubleValue, unit: UnitLength.meters)
+        distanceValue.convert(to: .kilometers)
+        let str = NSString(format: "%.1f %@ ", distanceValue.value, distanceValue.unit.symbol)
+        return str
+    }
+}
+
 class SingleGraphViewController: UIViewController {
     @IBOutlet weak var surface: SCIChartSurface!
-    private(set) lazy var notioData: [NotioData] = {
-        if let path = Bundle.main.path(forResource: "notiodata", ofType: "json") {
+    private(set) lazy var notioData: [GraphData] = {
+        if let path = Bundle.main.path(forResource: "graphData", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
-                return try JSONDecoder().decode([NotioData].self, from: data)
+                return try JSONDecoder().decode([GraphData].self, from: data)
             }catch {
-                fatalError()
+                fatalError(error.localizedDescription)
             }
         }
         return []
@@ -27,6 +38,8 @@ class SingleGraphViewController: UIViewController {
         
         let dataModel = notioData
         
+        let startTime: Int = dataModel.first!.time
+        
         let powerDataSeries: SCIXyDataSeries = SCIXyDataSeries(xType: .int, yType: .double)
         powerDataSeries.seriesName = "Power"
         
@@ -34,16 +47,23 @@ class SingleGraphViewController: UIViewController {
         cdaDataSeries.seriesName = "CdA"
         
         
+        //        for model in dataModel  {
+        //            let cda: Float = model.cdAwithvalueremoved == -1 ? Float.nan : model.cdawithoutremovedvalue
+        //            cdaDataSeries.append(x: model.time - startTime, y: cda)
+        //            powerDataSeries.append(x: model.time - startTime, y: model.power)
+        //        }
+        
         for model in dataModel  {
-            cdaDataSeries.append(x: model.timestamp, y: model.cdA)
-            powerDataSeries.append(x: model.timestamp, y: model.power)
+            let cda: Float = model.cdAwithvalueremoved == -1 ? Float.nan : model.cdawithoutremovedvalue
+            cdaDataSeries.append(x:model.distance, y: cda)
+            powerDataSeries.append(x: model.distance, y: model.power)
         }
         
         let seriesCdA = SCIFastLineRenderableSeries()
         seriesCdA.yAxisId = "CdA"
         seriesCdA.dataSeries = cdaDataSeries
         seriesCdA.strokeStyle = SCISolidPenStyle(colorCode: 0xFF0271B1, thickness: 2)
-                
+        
         let seriesPower = SCIFastLineRenderableSeries()
         seriesPower.yAxisId = "Power"
         seriesPower.dataSeries = powerDataSeries
@@ -53,7 +73,8 @@ class SingleGraphViewController: UIViewController {
         rederer.add(items: seriesPower)
         rederer.add(items: seriesCdA)
         
-        let xAxis = SCICategoryDateAxis()
+        let xAxis = SCINumericAxis()
+        xAxis.labelProvider = DistancelabelProvider()
         
         // Create another numeric axis, left-aligned
         let yAxisLeft = SCINumericAxis()
@@ -62,9 +83,10 @@ class SingleGraphViewController: UIViewController {
         yAxisLeft.axisAlignment = .left
         yAxisLeft.autoRange = .never
         yAxisLeft.growBy = SCIDoubleRange(min: 0, max: 0.1)
-        yAxisLeft.visibleRange = SCIDoubleRange(min: 0, max: 4.0)
+        yAxisLeft.visibleRange = SCIDoubleRange(min: 0, max: 1.0)
         yAxisLeft.tickLabelStyle = SCIFontStyle(fontSize: 12, andTextColorCode: 0xFF0271B1)
         yAxisLeft.titleStyle = SCIFontStyle(fontSize: 18, andTextColorCode: 0xFF0271B1)
+        yAxisLeft.isVisible = false
         
         let yAxisRight = SCINumericAxis()
 //        yAxisRight.axisTitle = "Power"
@@ -73,6 +95,7 @@ class SingleGraphViewController: UIViewController {
         yAxisRight.growBy = SCIDoubleRange(min: 0, max: 0.1)
         yAxisRight.tickLabelStyle = SCIFontStyle(fontSize: 12, andTextColorCode: 0xFFFF3333)
         yAxisRight.titleStyle = SCIFontStyle(fontSize: 18, andTextColorCode: 0xFFFF3333)
+        yAxisRight.isVisible = false
         
         let xAxisDragModifier = SCIXAxisDragModifier()
         xAxisDragModifier.dragMode = .pan
@@ -94,13 +117,18 @@ class SingleGraphViewController: UIViewController {
         zoomPanModifier.clipModeX = .stretchAtExtents
         zoomPanModifier.clipModeY = .none
         zoomPanModifier.zoomExtentsY = false
-        
+        // surface background. If you set color for chart background than it is color only for axes area
+        //surface.backgroundColor = .orange
+        // chart area (viewport) background fill color
+        //surface.renderableSeriesAreaFillStyle = SCISolidBrushStyle(colorCode: 0xFFFFB6C1)
+        // chart area border color and thickness
+        //surface.renderableSeriesAreaBorderStyle = SCISolidPenStyle(colorCode: 0xFF4682b4, thickness: 2)
         SCIUpdateSuspender.usingWith(surface) {
             self.surface.xAxes.add(xAxis)
             self.surface.yAxes.add(items: yAxisLeft, yAxisRight)
             self.surface.renderableSeries = rederer
-            self.surface.chartModifiers.add(items: xAxisDragModifier, pinchZoomModifier, zoomPanModifier, zoomExtentsModifier, SCILegendModifier(), SCIRolloverModifier())
-            
+            self.surface.chartModifiers.add(items: xAxisDragModifier, pinchZoomModifier, zoomPanModifier, zoomExtentsModifier, SCIRolloverModifier())
+            SCIThemeManager.applyTheme(to: self.surface, withThemeKey: "SciChart_BerryBlue")
         }
     }
     
@@ -116,3 +144,5 @@ class SingleGraphViewController: UIViewController {
      */
     
 }
+
+

@@ -23,7 +23,7 @@
 	<key>sciChartBackground</key>
 	<dict>
 		<key>solid</key>
-		<string>#FF0D213A</string>
+		<string>#FF5AC8FA</string>
 	</dict>
 	<key>legendBackground</key>
 	<dict>
@@ -35,19 +35,19 @@
 		<string>#FF1D2C35</string>
 	</dict>
 	<key>renderableSeriesAreaBorderColor</key>
-	<string>#FF102A47</string>
+	<string>#FF5AC8FA</string>
 	<key>renderableSeriesAreaFillColor</key>
-	<string>#00000000</string>
+	<string>#FF5AC8FA</string>
 	<key>defaultTextColor</key>
 	<string>#FFEEEEEE</string>
 	<key>tickTextColor</key>
 	<string>#FF6495ED</string>
 	<key>majorGridLinesColor</key>
-	<string>#FF102A47</string>
+	<string>#00000000</string>
 	<key>minorGridLinesColor</key>
-	<string>#FF0D223D</string>
+	<string>#00000000</string>
 	<key>axisBandsColor</key>
-	<string>#FF0E233A</string>
+	<string>#00000000</string>
 	<key>rolloverLineColor</key>
 	<string>#33FD9F25</string>
 	<key>cursorLineColor</key>
@@ -55,7 +55,7 @@
 	<key>rubberBandStrokeColor</key>
 	<string>#77999999</string>
 	<key>rubberBandFillColor</key>
-	<string>#33999999</string>
+	<string>#FF5AC8FA</string>
 	<key>axisTooltipTextColor</key>
 	<string>#FFEEEEEE</string>
 	<key>axisTooltipBackground</key>
